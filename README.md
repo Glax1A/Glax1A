@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Glax1A
-- 👀 I’m interested in Cybersecurity, Building computers and Linux.
-- 🌱 I’m currently learning python, lua, and a few more, too much for once really.
-- 💞️ I’m looking to collaborate on I don't know...
+- 👀 I’m interested in Cybersecurity, Building computers, coding frontend and Linux.
+- 🌱 I’m currently learning python, know HTML CSS PHP, some JS.
+- 💞️ I’m looking to collaborate on anything! Just send me a message!
 - 📫 How to reach me: Discord: greatest2
+- Website: https://nicodevportfolio.com
 
 <!---
 Glax1A/Glax1A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
