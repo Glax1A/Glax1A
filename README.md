@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nicholas Martinez
-- 👀 I’m interested in Cybersecurity, Building computers, coding frontend and Linux.
-- 🌱 I’m currently learning python, know HTML CSS PHP, some JS.
+- 👀 I’m interested in Cybersecurity, python, fullstack and Linux.
+- 🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, some JS.
 - 💞️ I’m looking to collaborate on anything! Just send me a message!
-- 📫 How to reach me: Discord: greatest2, or use the contact form on my website!
+- 📫 How to reach me: Discord: greatest2, or use the email on my website!
 - Website: https://nicodevportfolio.com
 - Tailwind CSS is too messy!
 
