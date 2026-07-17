@@ -1,6 +1,4 @@
 Developer from the United Kingdom.
-Languages: HTML/CSS/JS (including Angular), Python, Bash. Currently learning others.
-Interested in cybersecurity, Linux, web development, hardware, etc.
 
 ### Contact
 - Discord: nthpyrodev
